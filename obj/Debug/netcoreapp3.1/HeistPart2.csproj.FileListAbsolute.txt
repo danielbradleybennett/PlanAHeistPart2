@@ -1,0 +1,10 @@
+/Users/danielbennett/workspace/csharp/exercises/HeistPart2/obj/Debug/netcoreapp3.1/HeistPart2.csprojAssemblyReference.cache
+/Users/danielbennett/workspace/csharp/exercises/HeistPart2/obj/Debug/netcoreapp3.1/HeistPart2.AssemblyInfoInputs.cache
+/Users/danielbennett/workspace/csharp/exercises/HeistPart2/obj/Debug/netcoreapp3.1/HeistPart2.AssemblyInfo.cs
+/Users/danielbennett/workspace/csharp/exercises/HeistPart2/bin/Debug/netcoreapp3.1/HeistPart2.deps.json
+/Users/danielbennett/workspace/csharp/exercises/HeistPart2/bin/Debug/netcoreapp3.1/HeistPart2.runtimeconfig.json
+/Users/danielbennett/workspace/csharp/exercises/HeistPart2/bin/Debug/netcoreapp3.1/HeistPart2.runtimeconfig.dev.json
+/Users/danielbennett/workspace/csharp/exercises/HeistPart2/bin/Debug/netcoreapp3.1/HeistPart2.dll
+/Users/danielbennett/workspace/csharp/exercises/HeistPart2/bin/Debug/netcoreapp3.1/HeistPart2.pdb
+/Users/danielbennett/workspace/csharp/exercises/HeistPart2/obj/Debug/netcoreapp3.1/HeistPart2.dll
+/Users/danielbennett/workspace/csharp/exercises/HeistPart2/obj/Debug/netcoreapp3.1/HeistPart2.pdb
